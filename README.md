@@ -28,5 +28,5 @@ API RESTful desarrollada en Java que permite gestionar Backlogs, Sprints y Tarea
 ## 📫 Autor
 
 **Marcos Di Meco**  
-📧 marcosdimecom1@gmail.com  
+📧 marcosdimecom@gmail.com  
 📍 Mendoza, Argentina
